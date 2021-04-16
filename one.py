@@ -1,7 +1,6 @@
 import os
 import tinify
 
-tinify.key = "jqcv436djtwyxXY78tNyDcZ0dLg1gYSR"
 path = "./media"
 
 files = os.listdir(path)
