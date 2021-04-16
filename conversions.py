@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-path = ""
+path = "./media"
 files = os.listdir(path)
 for r, d, files in os.walk(path):
     for f in files:

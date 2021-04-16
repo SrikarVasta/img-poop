@@ -1,8 +1,8 @@
 import os
 import tinify
 
-tinify.key = ""
-path = "./menu"
+tinify.key = "jqcv436djtwyxXY78tNyDcZ0dLg1gYSR"
+path = "./media"
 
 files = os.listdir(path)
 all_files = []
